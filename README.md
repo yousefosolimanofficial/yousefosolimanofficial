@@ -1,4 +1,4 @@
-<!--
+[<!--
   GitHub Profile • Yousef O. Soliman
   Text-only hero header (no banner image).
   Gallery images are illustrative cover art, NOT actual application screenshots.
@@ -241,3 +241,4 @@ Interested in practical AI systems, engineering collaboration, or early-career A
 <p align="center"><a href="mailto:yousef.osama.ahmed.official@gmail.com">yousef.osama.ahmed.official@gmail.com</a></p>
 
 <p align="center"><sub>Design with intent. Build with evidence. Ship with care.</sub></p>
+](https://share.gemini.google/rZWVEZWCzQxm)
