@@ -1,4 +1,4 @@
-[<!--
+<!--
   GitHub Profile • Yousef O. Soliman
   Text-only hero header (no banner image).
   Gallery images are illustrative cover art, NOT actual application screenshots.
@@ -27,16 +27,12 @@ Focused on <strong>RAG, multimodal AI, model evaluation, and end-to-end AI appli
 <a href="#featured-ai-work">AI Gallery</a>  · 
 <a href="#software--applied-analytics">More Work</a>  · 
 <a href="#technical-toolkit">Toolkit</a>  · 
-<a href="#engineering-mindset">Approach</a>  · 
-<a href="#education">Education</a>  · 
-<a href="#career">Career</a>  · 
+<a href="#engineering-mindset">Mindset</a>  · 
 <a href="#lets-connect">Contact</a>
 
 </div>
 
-<a name="about-me"></a>
-
-01 / About Me
+About Me
 
 I'm Yousef O. Soliman, a final-year Computer Science student focused on AI Engineering, Generative AI, and applied Machine Learning. I build and explore systems that connect models with practical software: retrieval workflows, multimodal inputs, APIs, databases, evaluation, and usable interfaces.
 
@@ -44,9 +40,7 @@ My portfolio spans AI-powered accessibility, spacecraft telemetry anomaly detect
 
 How I work: Understand the problem → build the pipeline → connect the application → evaluate the results → iterate.
 
-<a name="featured-ai-work"></a>
-
-02 / Featured AI Work
+Featured AI Work
 
 <p>Selected projects that best represent my direction in <strong>AI Engineering</strong>. Click a visual to open the corresponding repository. <em>Gallery covers are illustrative project artwork, not application screenshots.</em></p>
 
@@ -93,9 +87,7 @@ How I work: Understand the problem → build the pipeline → connect the applic
 </tr>
 </table>
 
-<a name="software--applied-analytics"></a>
-
-03 / Software & Applied Analytics
+Software & Applied Analytics
 
 <p>Additional work demonstrating frontend engineering, dashboard development, and collaboration across disciplines.</p>
 
@@ -123,15 +115,11 @@ How I work: Understand the problem → build the pipeline → connect the applic
 
 <p align="right"><a href="https://github.com/yousefosolimanofficial?tab=repositories"><strong>Explore all repositories →</strong></a></p>
 
-<a name="technical-toolkit"></a>
+Technical Toolkit
 
-04 / Technical Toolkit
+<sub>Tools and concepts reflected in my project work — grouped by use case rather than inflated proficiency ratings.</sub>
 
-Tools used across my projects, grouped by their role in building AI applications.
-
-4.1 · Programming & Application Development
-
-<sub>Languages, interfaces and API development.</sub>
+Languages & Application Development
 
 <p>
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" height="27" />
@@ -141,14 +129,10 @@ Tools used across my projects, grouped by their role in building AI applications
   <img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white" alt="Streamlit" height="27" />
 </p>
 
-<br />
-
-4.2 · Artificial Intelligence, Machine Learning & Vision
-
-<sub>Model integration, computer vision, retrieval and evaluation.</sub>
+AI, Machine Learning & Vision
 
 <p>
-  <img src="https://img.shields.io/badge/Scikit--learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white" alt="Scikit-learn" height="27" />
+  <img src="https://img.shields.io/badge/Scikit-learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white" alt="Scikit-learn" height="27" />
   <img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white" alt="OpenCV" height="27" />
   <img src="https://img.shields.io/badge/ONNX_Runtime-414CBF?style=for-the-badge&logo=onnx&logoColor=white" alt="ONNX Runtime" height="27" />
   <img src="https://img.shields.io/badge/Generative_AI-275D8B?style=for-the-badge" alt="Generative AI" height="27" />
@@ -156,11 +140,7 @@ Tools used across my projects, grouped by their role in building AI applications
   <img src="https://img.shields.io/badge/Model_Evaluation-146D5B?style=for-the-badge" alt="Model Evaluation" height="27" />
 </p>
 
-<br />
-
-4.3 · Data, APIs & Delivery
-
-<sub>Storage, version control, containers and API integration.</sub>
+Data, APIs & Delivery
 
 <p>
   <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL" height="27" />
@@ -170,75 +150,35 @@ Tools used across my projects, grouped by their role in building AI applications
   <img src="https://img.shields.io/badge/REST_APIs-2B6075?style=for-the-badge" alt="REST APIs" height="27" />
 </p>
 
-<br />
-
-<a name="engineering-mindset"></a>
-
-05 / Engineering Approach
-
-My process: Design the system, evaluate its behavior, and deliver something people can use.
+Engineering Mindset
 
 <table>
-  <tr>
-    <th align="left" width="33%">01 · DESIGN</th>
-    <th align="left" width="33%">02 · EVALUATE</th>
-    <th align="left" width="34%">03 · DELIVER</th>
-  </tr>
-  <tr>
-    <td valign="top">Map the problem to architecture, data flow, model integration and user-facing behavior.</td>
-    <td valign="top">Measure model performance, inspect failure cases, and document limitations.</td>
-    <td valign="top">Connect models to APIs, databases, interfaces and reproducible workflows.</td>
-  </tr>
+<tr>
+<td width="33%" valign="top"><strong>01 / DESIGN</strong><br /><br />Translate a problem into architecture, data flow, model integration, and user-facing behavior.</td>
+<td width="33%" valign="top"><strong>02 / EVALUATE</strong><br /><br />Measure model behavior, inspect failure cases, communicate constraints, and improve reliability.</td>
+<td width="34%" valign="top"><strong>03 / DELIVER</strong><br /><br />Connect models to APIs, persistence, interfaces, and reproducible deployment workflows.</td>
+</tr>
 </table>
 
-Currently Learning
+Currently sharpening: LLM evaluation, robust RAG design, model serving, deployment practices, and system observability.
 
-LLM evaluation · Robust RAG design · Model serving · Deployment practices · System observability
+Education & Credentials
 
-<br />
+B.Sc. Computer Science — Sinai University · Final-year student, expected graduation 2026.
 
-<a name="education"></a>
+HackerRank Python (Basic) — verified skills assessment, September 2026. View HackerRank profile ↗
 
-06 / Education & Credentials
+Career direction: AI Engineering internships, graduate programs, and entry-level AI / Generative AI roles.
 
-Academic Background
+Let's Connect
 
-B.Sc. in Computer Science
-Sinai University, Egypt · Final-year student · Expected graduation: 2026
-
-Certification
-
-HackerRank — Python (Basic)
-Passed the skills assessment · September 2026 · View HackerRank profile ↗
-
-<br />
-
-<a name="career"></a>
-
-07 / Career Focus
-
-Target roles: AI Engineering Intern · Generative AI Intern · Graduate AI Engineer · Junior AI Engineer
-
-Professional focus: Building, integrating and evaluating applied AI systems — especially RAG, multimodal applications, and machine-learning-powered products.
-
-Availability: Open to internships, graduate programs and entry-level roles, including international opportunities.
-
-<br />
-
-<a name="lets-connect"></a>
-
-08 / Let's Connect
-
-Interested in practical AI systems, engineering collaboration, or early-career AI opportunities? I'd be glad to connect.
+Interested in practical AI, ML engineering, and building AI systems people can actually use. I'm open to conversations about AI Engineering opportunities, technical collaboration, and applied AI projects.
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/yousefosalemofficial/"><img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="Connect on LinkedIn" height="29" /></a>
-  <a href="https://www.hackerrank.com/profile/yousef_0_soliman"><img src="https://img.shields.io/badge/HackerRank-Profile-188C5C?style=for-the-badge&logo=hackerrank&logoColor=white" alt="HackerRank profile" height="29" /></a>
-  <a href="https://github.com/yousefosolimanofficial?tab=repositories"><img src="https://img.shields.io/badge/GitHub-Repositories-283C55?style=for-the-badge&logo=github&logoColor=white" alt="GitHub repositories" height="29" /></a>
-  <a href="mailto:yousef.osama.ahmed.official@gmail.com"><img src="https://img.shields.io/badge/Email-Contact_Me-354B67?style=for-the-badge&logo=gmail&logoColor=white" alt="Send me an email" height="29" /></a>
+  <a href="https://www.linkedin.com/in/yousefosalemofficial/"><strong>LinkedIn</strong></a> &nbsp;·&nbsp;
+  <a href="https://www.hackerrank.com/profile/yousef_0_soliman"><strong>HackerRank</strong></a> &nbsp;·&nbsp;
+  <a href="https://github.com/yousefosolimanofficial?tab=repositories"><strong>Repositories</strong></a> &nbsp;·&nbsp;
+  <a href="mailto:yousef.osama.ahmed.official@gmail.com"><strong>yousef.osama.ahmed.official@gmail.com</strong></a>
 </p>
 
-<p align="center"><a href="mailto:yousef.osama.ahmed.official@gmail.com">yousef.osama.ahmed.official@gmail.com</a></p>
-
 <p align="center"><sub>Design with intent. Build with evidence. Ship with care.</sub></p>
-](https://share.gemini.google/rZWVEZWCzQxm)
