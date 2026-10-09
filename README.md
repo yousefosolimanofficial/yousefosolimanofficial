@@ -1,241 +1,202 @@
 <!--
-  GitHub profile README for github.com/yousefosolimanofficial
-  Built for GitHub's native Markdown renderer: no CSS, external images, or missing assets.
-  Last reviewed: October 2026.
+  GitHub Profile README | Yousef O. Soliman
+  Text-only edition: no image files, badges, SVGs, or external image services.
+  Designed for GitHub's native Markdown renderer (dark and light mode).
 -->
 
 <div align="center">
 
-<sub>FINAL-YEAR COMPUTER SCIENCE STUDENT · SINAI UNIVERSITY · EGYPT</sub>
+<sub>AI ENGINEERING &nbsp; / &nbsp; GENERATIVE AI &nbsp; / &nbsp; APPLIED MACHINE LEARNING</sub>
 
 <h1>Yousef O. Soliman</h1>
 
-<h3>AI Engineering &nbsp;·&nbsp; Generative AI &nbsp;·&nbsp; Applied Machine Learning</h3>
+<h3>Turning AI models into usable, real-world applications.</h3>
 
-<p><strong>Building AI applications that connect models, data, and software to solve real problems.</strong></p>
+<p>
+  Final-year Computer Science student at <strong>Sinai University, Egypt</strong>.<br/>
+  Building at the intersection of <strong>AI systems, data, and software engineering</strong>.
+</p>
 
 <p>
   <a href="https://www.linkedin.com/in/yousefosalemofficial/"><strong>LinkedIn ↗</strong></a>
-  &nbsp; | &nbsp;
+  &nbsp; • &nbsp;
   <a href="https://github.com/yousefosolimanofficial?tab=repositories"><strong>Repositories ↗</strong></a>
-  &nbsp; | &nbsp;
+  &nbsp; • &nbsp;
   <a href="https://www.hackerrank.com/profile/yousef_0_soliman"><strong>HackerRank ↗</strong></a>
-  &nbsp; | &nbsp;
+  &nbsp; • &nbsp;
   <a href="mailto:yousef.osama.ahmed.official@gmail.com"><strong>Email ↗</strong></a>
 </p>
 
-<sub>Seeking AI Engineering internships, graduate programs, and relevant entry-level opportunities.</sub>
+<p><sub>OPEN TO &nbsp; AI Engineering Internships &nbsp; · &nbsp; Graduate Programs &nbsp; · &nbsp; Entry-Level AI Roles</sub></p>
+
+<strong>
+<a href="#about">ABOUT</a> &nbsp; / &nbsp;
+<a href="#featured-project">FLAGSHIP</a> &nbsp; / &nbsp;
+<a href="#selected-projects">PROJECTS</a> &nbsp; / &nbsp;
+<a href="#technical-stack">STACK</a> &nbsp; / &nbsp;
+<a href="#background">BACKGROUND</a> &nbsp; / &nbsp;
+<a href="#contact">CONTACT</a>
+</strong>
 
 </div>
 
-<p align="center">
-  <a href="#about-me">About</a> &nbsp;·&nbsp;
-  <a href="#flagship-project">Flagship</a> &nbsp;·&nbsp;
-  <a href="#selected-ai-projects">AI Projects</a> &nbsp;·&nbsp;
-  <a href="#engineering-toolkit">Toolkit</a> &nbsp;·&nbsp;
-  <a href="#education--credentials">Education</a> &nbsp;·&nbsp;
-  <a href="#contact">Contact</a>
-</p>
+---
 
-<a id="about-me"></a>
+<a id="about"></a>
+## 01 — About
 
-01 / About Me
+I work on **AI Engineering and Generative AI** projects that connect intelligent models to usable software — from **RAG and multimodal pipelines** to **APIs, databases, and end-user applications**.
 
-I'm a final-year Computer Science student at Sinai University working toward a career in AI Engineering, with a particular focus on Generative AI, retrieval-augmented generation (RAG), and multimodal applications.
+> **My approach:** Build thoughtfully · Evaluate model behavior · Make the outcome useful.
 
-I work on the engineering between a promising model and a usable product: data processing, model integration, APIs, retrieval pipelines, evaluation, databases, and user-facing applications. My portfolio includes an accessibility platform, a collaborative telemetry-monitoring system, and an experimental computer-vision research project.
+---
 
-What matters to me: clear problem definition, measurable model behavior, transparent limitations, and software that people can actually use.
-
-<a id="flagship-project"></a>
-
-02 / Flagship Project
-
-AccessMate AI — Multimodal Accessibility Platform
-
-My primary AI Engineering case study · Generative AI · RAG · Speech · Computer Vision
+<a id="featured-project"></a>
+## 02 — Flagship Project
 
 <table>
-<tr>
-<td valign="top" width="100%">
-
-<p><strong>The challenge</strong><br>
-Accessibility features are often split across separate applications. AccessMate explores a unified experience for communication, document understanding, visual assistance, and environmental awareness.</p>
-
-<p><strong>What I built and integrated</strong></p>
-<ul>
-<li>Context-aware conversational AI, voice interaction, OCR/vision assistance, and document retrieval.</li>
-<li>A <strong>RAG workflow</strong> with vector search using <strong>PostgreSQL + pgvector</strong>.</li>
-<li>A web application connecting a <strong>React frontend</strong>, <strong>FastAPI backend</strong>, and AI services.</li>
-<li>Containerized application infrastructure; deployment setup is documented in the repository.</li>
-</ul>
-
-<p><strong>My role</strong><br>
-The project began collaboratively. I subsequently continued the final version independently, including system integration, testing, and deployment, as described in the project repository.</p>
-
-<p><strong>Stack:</strong> <code>Python</code> <code>FastAPI</code> <code>React</code> <code>RAG</code> <code>PostgreSQL</code> <code>pgvector</code> <code>Docker</code></p>
-
-<p><strong>Evidence:</strong> <a href="https://github.com/yousefosolimanofficial/Accessmate-Ai-">Explore source &amp; architecture ↗</a> &nbsp;·&nbsp; <a href="https://accessmate-ai.duckdns.org/">Open deployed application ↗</a></p>
-
-</td>
-</tr>
+  <tr>
+    <td valign="top">
+      <sub>01 &nbsp; / &nbsp; FLAGSHIP &nbsp; / &nbsp; MULTIMODAL AI</sub>
+      <h2><a href="https://github.com/yousefosolimanofficial/Accessmate-Ai-">AccessMate AI ↗</a></h2>
+      <p><strong>An accessibility-focused AI platform combining multiple intelligent capabilities in one application.</strong></p>
+      <p>Integrates conversational AI, retrieval-augmented document assistance, visual understanding and OCR, speech interaction, and environmental sound awareness.</p>
+      <p><strong>Engineering scope</strong><br/>
+        Document retrieval and semantic search · Multimodal AI integration · Backend services · User-facing application · Model evaluation
+      </p>
+      <p><strong>Stack</strong><br/>
+        <code>Python</code> <code>FastAPI</code> <code>RAG</code> <code>React</code> <code>PostgreSQL</code> <code>pgvector</code>
+      </p>
+      <p><sub><strong>Contribution:</strong> Originally a team project; I continued the integration, testing, and deployment of the final version independently.</sub></p>
+      <p>
+        <a href="https://github.com/yousefosolimanofficial/Accessmate-Ai-"><strong>Explore repository →</strong></a>
+        &nbsp; · &nbsp;
+        <a href="https://accessmate-ai.duckdns.org/"><strong>Open demo ↗</strong></a>
+      </p>
+    </td>
+  </tr>
 </table>
 
-<a id="selected-ai-projects"></a>
+---
 
-03 / Selected AI Projects
+<a id="selected-projects"></a>
+## 03 — Selected Projects
 
-<sub>Each project has a distinct purpose and an explicit scope. Projects completed with others are labeled accordingly.</sub>
-
-<br><br>
+<p>Projects are grouped by <strong>engineering relevance</strong>, with collaboration and research limitations stated explicitly.</p>
 
 <table>
-<tr>
-<td width="50%" valign="top">
-
-<h3>01 · MissionGuard AI</h3>
-<p><strong>Collaborative project</strong> · Anomaly Detection &amp; Explainable AI</p>
-<p>A spacecraft telemetry decision-support prototype using <strong>real ESA OPS-SAT data</strong>. The team combined Isolation Forest and Random Forest evidence with risk scoring, drift checks, and operator-facing explanations.</p>
-<p><strong>Engineering signal:</strong> the repository documents an official test split and model-level evaluation, including a <strong>team-reported hybrid F1 of 0.864</strong> on the segment-level test set. This is a project result, not an individual achievement claim.</p>
-<p><code>Python</code> <code>Scikit-learn</code> <code>Isolation Forest</code> <code>Random Forest</code> <code>Streamlit</code></p>
-<p><a href="https://github.com/yousefosolimanofficial/MissionGuard-Ai"><strong>Source &amp; evaluation ↗</strong></a> &nbsp;·&nbsp; <a href="https://missionguardplatform.duckdns.org/">Demo ↗</a></p>
-
-</td>
-<td width="50%" valign="top">
-
-<h3>02 · NeuroOcular AI</h3>
-<p><strong>Experimental research prototype</strong> · Computer Vision</p>
-<p>A research-oriented retinal-video processing pipeline exploring optical flow, hemodynamic features, and model-based estimation.</p>
-<p><strong>Research boundary:</strong> demonstrates an experimental computational workflow; <strong>it has not been clinically validated</strong> and is not a diagnostic or medical-decision system.</p>
-<p><strong>Engineering signal:</strong> vision preprocessing, signal-feature extraction, and documented validation requirements.</p>
-<p><code>Python</code> <code>OpenCV</code> <code>Signal Processing</code> <code>ONNX</code></p>
-<p><a href="https://github.com/yousefosolimanofficial/NeuroOcular-AI"><strong>Research repository ↗</strong></a></p>
-
-</td>
-</tr>
+  <tr>
+    <td width="50%" valign="top">
+      <sub>02 &nbsp; / &nbsp; COLLABORATIVE ML</sub>
+      <h3><a href="https://github.com/yousefosolimanofficial/MissionGuard-Ai">MissionGuard AI ↗</a></h3>
+      <p><strong>Explainable anomaly detection for spacecraft telemetry.</strong></p>
+      <p>Decision-support prototype using ESA OPS-SAT data, anomaly detection, risk assessment, and human review workflows.</p>
+      <p><code>Python</code> <code>Isolation Forest</code> <code>Random Forest</code> <code>XAI</code></p>
+      <p><sub>Built collaboratively; not presented as a solo project.</sub></p>
+      <p><a href="https://github.com/yousefosolimanofficial/MissionGuard-Ai"><strong>Code & details →</strong></a> &nbsp;·&nbsp; <a href="https://missionguardplatform.duckdns.org/"><strong>Demo ↗</strong></a></p>
+    </td>
+    <td width="50%" valign="top">
+      <sub>03 &nbsp; / &nbsp; RESEARCH PROTOTYPE</sub>
+      <h3><a href="https://github.com/yousefosolimanofficial/NeuroOcular-AI">NeuroOcular AI ↗</a></h3>
+      <p><strong>Experimental computer vision for retinal-video analysis.</strong></p>
+      <p>Explores optical flow and hemodynamic-signal analysis in an experimental research workflow.</p>
+      <p><code>Python</code> <code>OpenCV</code> <code>Optical Flow</code> <code>ONNX</code></p>
+      <p><sub>Research-only prototype; not clinically validated.</sub></p>
+      <p><a href="https://github.com/yousefosolimanofficial/NeuroOcular-AI"><strong>Code & details →</strong></a></p>
+    </td>
+  </tr>
 </table>
 
-Additional Work
+<details>
+<summary><strong>Explore more work — Applied Analytics & Software Engineering</strong></summary>
+<br/>
+<table>
+  <tr>
+    <td width="50%" valign="top">
+      <strong>04 / AI Investment Analyzer</strong><br/>
+      <sub>APPLIED ANALYTICS</sub>
+      <p>Interactive portfolio analysis, financial-data exploration, and decision-support workflows.</p>
+      <p><code>Python</code> <code>Data Analysis</code> <code>Portfolio Analytics</code></p>
+      <a href="https://github.com/yousefosolimanofficial/Ai-Investment-Analyzer-Project"><strong>View repository →</strong></a>
+    </td>
+    <td width="50%" valign="top">
+      <strong>05 / SecureVault</strong><br/>
+      <sub>TEAM PROJECT · FRONTEND</sub>
+      <p>Frontend and dashboard contribution to a collaborative secure file-management platform.</p>
+      <p><code>Frontend</code> <code>Dashboard UI</code> <code>Collaboration</code></p>
+      <a href="https://www.linkedin.com/posts/yousefosalemofficial_cybersecurity-informationsecurity-websecurity-ugcPost-7488482118172315649-KWVs/"><strong>Project write-up →</strong></a>
+    </td>
+  </tr>
+  <tr>
+    <td valign="top">
+      <strong>06 / Nimbus Weather Dashboard</strong><br/>
+      <sub>FRONTEND APPLICATION</sub>
+      <p>Responsive weather dashboard with forecast views, current conditions, and reusable components.</p>
+      <p><code>Responsive UI</code> <code>Web Development</code></p>
+      <a href="https://github.com/yousefosolimanofficial/Nimbus-Weather-Dashboard"><strong>View repository →</strong></a>
+    </td>
+    <td valign="middle" align="center">
+      <p><strong>More work on GitHub</strong></p>
+      <a href="https://github.com/yousefosolimanofficial?tab=repositories"><strong>Browse all repositories ↗</strong></a>
+    </td>
+  </tr>
+</table>
+</details>
 
-Project
+---
 
-Focus
+<a id="technical-stack"></a>
+## 04 — Technical Stack
 
-Explore
+<p>Technologies used across projects, organized by their role in an AI system.</p>
 
-AI Investment Analyzer
+| Discipline | Tools & concepts |
+|:--|:--|
+| **Generative & Multimodal AI** | `RAG` · `Semantic Retrieval` · `OCR` · `Speech Processing` · `Model Evaluation` |
+| **Machine Learning & Vision** | `Scikit-learn` · `OpenCV` · `ONNX Runtime` · `Anomaly Detection` |
+| **Backend & Data** | `Python` · `FastAPI` · `PostgreSQL` · `pgvector` · `REST APIs` |
+| **Applications & Delivery** | `React` · `TypeScript` · `Streamlit` · `Docker` · `Git` |
 
-Financial-data exploration, portfolio analysis, and risk-oriented decision support.
+### How I approach engineering
 
-Repository ↗
+<table>
+  <tr>
+    <td width="33%" valign="top"><strong>01 &nbsp; DESIGN</strong><br/><br/>Translate a real problem into components, data flows, and a practical AI architecture.</td>
+    <td width="33%" valign="top"><strong>02 &nbsp; EVALUATE</strong><br/><br/>Inspect model behavior, test assumptions, and communicate failure modes and limitations.</td>
+    <td width="34%" valign="top"><strong>03 &nbsp; INTEGRATE</strong><br/><br/>Connect inference to APIs, storage, interfaces, and reproducible delivery workflows.</td>
+  </tr>
+</table>
 
-SecureVault
+<sub><strong>Currently deepening:</strong> LLM evaluation, robust RAG design, model serving, deployment, and system observability.</sub>
 
-Team cybersecurity platform; my role: frontend and dashboard development.
+---
 
-Project overview ↗
+<a id="background"></a>
+## 05 — Background & Credentials
 
-Nimbus Weather Dashboard
+| Background | Details |
+|:--|:--|
+| **Education** | B.Sc. Computer Science, **Sinai University** · Final year · Expected graduation **2026** |
+| **Skills assessment** | **HackerRank Python (Basic)** · September 2026 · [View HackerRank profile ↗](https://www.hackerrank.com/profile/yousef_0_soliman) |
+| **Career focus** | AI Engineering internships · Graduate programs · Entry-level AI / Generative AI roles |
 
-Responsive frontend application with forecasts and saved-location views.
-
-Repository ↗
-
-<p align="right"><a href="https://github.com/yousefosolimanofficial?tab=repositories">See all public repositories →</a></p>
-
-<a id="engineering-toolkit"></a>
-
-04 / Engineering Toolkit
-
-My technical toolkit is organized by what each tool helps me build, rather than unsupported proficiency ratings.
-
-4.1 · AI & Machine Learning
-
-Machine Learning · Generative AI · LLM Applications · RAG · Scikit-learn · Computer Vision · Model Evaluation
-
-4.2 · Application & API Development
-
-Python · SQL · FastAPI · React · TypeScript · Streamlit · REST APIs
-
-4.3 · Data, Infrastructure & Tools
-
-PostgreSQL · pgvector · Docker · Git · OpenCV · ONNX Runtime
-
-05 / How I Approach AI Engineering
-
-01 · Design
-
-02 · Evaluate
-
-03 · Integrate
-
-Define the user problem, data flow, model boundaries, and system interfaces.
-
-Inspect model behavior, compare results, document failure cases and limitations.
-
-Connect inference and retrieval to APIs, storage, UI, and reproducible delivery workflows.
-
-Currently developing further: LLM evaluation, RAG robustness, model serving, and deployment observability.
-
-<a id="education--credentials"></a>
-
-06 / Education & Credentials
-
-Education
-
-B.Sc. Computer Science · Sinai University, Egypt
-Final-year student · Expected graduation: 2026
-
-Selected Credentials & Training
-
-Provider
-
-Credential
-
-Year
-
-HackerRank
-
-Python (Basic) — skills assessment ↗
-
-2026
-
-IBM SkillsBuild
-
-AI Builders Challenge — certificate of participation (28 learning hours)
-
-2026
-
-InnovEgypt / TIEC
-
-45-hour entrepreneurship program and startup project
-
-—
+---
 
 <a id="contact"></a>
+## 06 — Let's Connect
 
-07 / Opportunities & Contact
+<p>Interested in <strong>AI engineering, applied machine learning, and building useful AI products</strong>. I'm open to internship opportunities, graduate roles, and technical collaboration.</p>
 
-I'm interested in AI Engineering / Generative AI internships, graduate programs, and appropriate junior roles, as well as collaborations on practical AI applications.
+<p align="center">
+  <a href="mailto:yousef.osama.ahmed.official@gmail.com"><strong>Email me ↗</strong></a>
+  &nbsp; | &nbsp;
+  <a href="https://www.linkedin.com/in/yousefosalemofficial/"><strong>LinkedIn ↗</strong></a>
+  &nbsp; | &nbsp;
+  <a href="https://www.hackerrank.com/profile/yousef_0_soliman"><strong>HackerRank ↗</strong></a>
+  &nbsp; | &nbsp;
+  <a href="https://github.com/yousefosolimanofficial?tab=repositories"><strong>All repositories ↗</strong></a>
+</p>
 
-Connect
+---
 
-Link
-
-Email
-
-yousef.osama.ahmed.official@gmail.com
-
-LinkedIn
-
-linkedin.com/in/yousefosalemofficial ↗
-
-HackerRank
-
-@yousef_0_soliman ↗
-
-Code
-
-GitHub repositories ↗
-
-<div align="center"><sub>Build with purpose. Evaluate with evidence. Communicate with clarity.</sub></div>
+<p align="center"><sub>Build thoughtfully. Evaluate carefully. Deliver something useful.</sub></p>
